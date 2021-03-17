@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+You have to always feel curious, and ask yourself why of all things, that invites you to make a reflection. In computer science everything is programmed and happens by a programming, good or bad, it does not depend on a random 0 being combined into a 1.
+
+If you do not investigate you can work in computer science, but as the systems currently need to be updated to be sure, the old motto "If it works, do not touch", has been transformed, if you are connected to the internet, you have to have the last update and have countermeasures And a plan for when you get mugged is the only way
+
+And now IOT arrives, everyone expects billions of connected devices but few have plans to know how to do it.
+
+A simple sensor temperature reading, at a specific time, causes a wave of data when multiplied by thousands, it is like creating a DOS attack, and you only intend to read data, IOT is a challenge in how it captures and saves billions of data, Big data is here to stay.
+
+My Blog: [aqui](https://www.cloudespañol.com/)
