@@ -23,12 +23,11 @@ And now IOT arrives, everyone expects billions of connected devices but few have
 
 A simple sensor temperature reading, at a specific time, causes a wave of data when multiplied by thousands, it is like creating a DOS attack, and you only intend to read data, IOT is a challenge in how it captures and saves billions of data, Big data is here to stay.
 
+![Mario-Ezquerro's github stats](https://github-readme-stats.vercel.app/api?username=mario-ezquerro&show_icons=true)
+
 My [Blog](https://www.cloudespañol.com/)
 My [Linked](https://www.linkedin.com/in/mario-ezquerro-s%C3%A1enz-a239b270/)
 My [twitter](https://twitter.com/Mario_Ezquerro)
-
 My [youtube](https://www.youtube.com/c/MarioEzquerro)
-
 Other [channel](https://www.youtube.com/@AWSenEspanol/videos)
-
 [Google cloud IOT](https://www.youtube.com/watch?v=A4DfWYQEKag)
